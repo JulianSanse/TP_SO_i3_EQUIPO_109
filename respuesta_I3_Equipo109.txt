@@ -1,0 +1,8 @@
+A.El master queda con los datos que se fusionaron de las distintas ramas.
+B.Si, todos los cambios realizados pueden ser visto por Beta atraves de github y los commits.
+C. Git checkout main
+git merge Canelas
+git add .
+git commit -m
+git push
+
