@@ -6,3 +6,13 @@ git add .
 git commit -m
 git push
 
+D. Las ramas BETA y GAMMA no se actualizan con los nuevos datos ya que al hacer el merge todo se actualiza en el main.
+E. Al intentar hacer el merge, la consola nos pedia que ingresemos a la pagina de GitHub para hacer un pull request.
+F. git fetch
+git checkout SanSebastian
+echo 'Canelas Tomas' >> beta.txt
+ifconfig >> beta.txt
+date >> beta.txt
+git add .
+git commit -m 'GAMMA: modifico beta.txt'
+git push
