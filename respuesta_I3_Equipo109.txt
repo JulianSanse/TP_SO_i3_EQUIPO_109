@@ -16,3 +16,10 @@ date >> beta.txt
 git add .
 git commit -m 'GAMMA: modifico beta.txt'
 git push
+
+G- Para lograr el punto 8 tuve que pararme en la rama SanSebastian con: git checkout SanSebastian
+Luego agregar mi nombre y apellido a beta.txt, utilizar el comando: ifconfig >> beta.txt y luego añadir la hora.
+Por ultimo parado en la rama SanSebastian utilizo los comandos:
+git add .
+git commit -m
+git push
